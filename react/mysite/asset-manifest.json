@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react/mysite/static/js/main.038a804f.js",
+    "static/media/parallax3.jpg": "/react/mysite/static/media/parallax3.e33a5779e8f97b9996b6.jpg",
+    "static/media/parallax1.jpg": "/react/mysite/static/media/parallax1.cd1453f3f044352cfe2d.jpg",
+    "static/media/p3.jpg": "/react/mysite/static/media/p3.6a169a3f6b645bbebaa2.jpg",
+    "static/media/p2.jpg": "/react/mysite/static/media/p2.d2e21ac3ad2873df2fe9.jpg",
+    "static/media/p7.jpg": "/react/mysite/static/media/p7.4a9c4d4f7d65b30b8b1d.jpg",
+    "static/media/parallax2.jpg": "/react/mysite/static/media/parallax2.e9761a29c08eae202a02.jpg",
+    "static/media/p1.jpg": "/react/mysite/static/media/p1.f5672caa490dd4dcae7d.jpg",
+    "static/media/avatar_hat.jpg": "/react/mysite/static/media/avatar_hat.5e49880bf59635c0188d.jpg",
+    "static/media/p5.jpg": "/react/mysite/static/media/p5.decd8bd3eb837fc4fb30.jpg",
+    "static/media/p8.jpg": "/react/mysite/static/media/p8.94322d3b7e4b22776779.jpg",
+    "static/media/p6.jpg": "/react/mysite/static/media/p6.321ab37c47d757988f00.jpg",
+    "index.html": "/react/mysite/index.html",
+    "main.038a804f.js.map": "/react/mysite/static/js/main.038a804f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.038a804f.js"
+  ]
+}

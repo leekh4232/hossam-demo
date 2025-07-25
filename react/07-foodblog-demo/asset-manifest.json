@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react/07-foodblog-demo/static/js/main.0c0d97c4.js",
+    "static/media/steak2.jpg": "/react/07-foodblog-demo/static/media/steak2.a2fb608d8a681b571b67.jpg",
+    "static/media/wine.jpg": "/react/07-foodblog-demo/static/media/wine.f385aa5175d23c02b9b5.jpg",
+    "static/media/chef.jpg": "/react/07-foodblog-demo/static/media/chef.aa8da15af1ab13f3e49e.jpg",
+    "static/media/croissant.jpg": "/react/07-foodblog-demo/static/media/croissant.7d9a05f991cba57f8e27.jpg",
+    "static/media/salmon.jpg": "/react/07-foodblog-demo/static/media/salmon.b53f37e6551f124294f7.jpg",
+    "static/media/cherries.jpg": "/react/07-foodblog-demo/static/media/cherries.7ef56d51c7c24d4bcf3e.jpg",
+    "static/media/steak.jpg": "/react/07-foodblog-demo/static/media/steak.884245d345083526bd03.jpg",
+    "static/media/popsicle.jpg": "/react/07-foodblog-demo/static/media/popsicle.8988496ab1464c96806d.jpg",
+    "static/media/sandwich.jpg": "/react/07-foodblog-demo/static/media/sandwich.070d2a53863bbf2bcb1b.jpg",
+    "static/media/workshop.jpg": "/react/07-foodblog-demo/static/media/workshop.326b4fa2602a09804c3b.jpg",
+    "static/media/gondol.jpg": "/react/07-foodblog-demo/static/media/gondol.20c27b42f86c6b5e2b07.jpg",
+    "index.html": "/react/07-foodblog-demo/index.html",
+    "main.0c0d97c4.js.map": "/react/07-foodblog-demo/static/js/main.0c0d97c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0c0d97c4.js"
+  ]
+}
